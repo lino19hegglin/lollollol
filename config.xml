@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>LInO`S cOoLE aPp</name>
     <description>
-        App-Beschreibung
+        dIEs ISt eInE cOoLE aPp
     </description>
     <author>
-        Dein Name
+        Lino
     </author>
 
     <!-- General settings -->
@@ -24,7 +24,6 @@
     <plugin name="cordova-plugin-statusbar" spec="2.4.2" />
 
     <!-- Icons and Splashscreens-->
-<!--
     <platform name="ios">
       <icon src="res/icon/ios/icon-1024.png" width="1024" height="1024"/>
       <icon src="res/icon/ios/icon-small.png" width="29" height="29"/>
@@ -56,6 +55,6 @@
       <icon density="xxhdpi" src="res/icon/android/xxhdpi.png"/>
       <icon density="xxxhdpi" src="res/icon/android/xxxhdpi.png"/>
     </platform>
--->
+
 
 </widget>
